@@ -74,6 +74,15 @@ pip install streamlit pandas requests
 
 ### 🛍️ Product Recommendations
 ![Product Recommendations](screenshot2.png)
+## 📸 Screenshots
+
+![Screenshot 1](screenshot1.png)
+
+![Screenshot 2](screenshot2.png)
+
+![Screenshot 3](screenshot3.png)
+
+![Screenshot 4](screenshot4.png)
 
 ### 📊 Product Comparison
 ![Product Comparison](screenshot3.png)

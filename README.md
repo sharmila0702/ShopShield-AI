@@ -67,3 +67,16 @@ Install the required libraries:
 
 ```bash
 pip install streamlit pandas requests
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![ShopShield AI Home](screenshot1.png)
+
+### 🛍️ Product Recommendations
+![Product Recommendations](screenshot2.png)
+
+### 📊 Product Comparison
+![Product Comparison](screenshot3.png)
+
+### 🎯 Final Decision
+![Final Decision](screenshot4.png)
